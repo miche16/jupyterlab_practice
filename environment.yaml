@@ -1,0 +1,5 @@
+name: jl_prac_env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Awesome\miniconda3\envs\jl_prac_env
